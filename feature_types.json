@@ -1,0 +1,1 @@
+{"Euclidean": ["heathrow cld_ttl_amt_id", "heathrow cld_base_ht", "heathrow visibility", "heathrow msl_pressure", "heathrow y", "heathrow dewpoint", "heathrow rltv_hum", "heathrow wind_speed", "heathrow air_temperature", "heathrow prcp_amt"], "Cyclic": ["Date", "wind_direction"]}
